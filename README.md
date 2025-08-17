@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Powered Meeting Summarizer
 
 ## Overview
@@ -155,4 +154,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - **Ollama** for providing large language models for summarization.
 =======
 # AI-power-meeting-summarizer
->>>>>>> f367929427efd71d3f09e316f7eccbcd0f512e11
